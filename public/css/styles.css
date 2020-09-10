@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+nav {
+    display: inline-flex;
+}
+
+.navbar-brand {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.navbar-brand img {
+    width: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.break {
+    height: 1px;
+    background: white !important;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+footer img {
+    margin-left: 1rem;
+    width: 1.5rem;
+}
+.highlighted, .emphasis {
+    color: #8170F6;
+    font-weight: 600;
+}
