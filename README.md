@@ -1,6 +1,6 @@
 # Weatherland
 #### Author: Cora Wang
-#### Last Update: 09.2020
+Last Update: Sep 2020
 
 Project to check real-time weather info in Node.js, Express, &amp; Handlebars
 
