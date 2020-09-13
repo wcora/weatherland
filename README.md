@@ -17,4 +17,4 @@ Then run the starting script ```npm run dev```
 
 This app is currently deployed to Heroku. 
 
-Visit the production site at https://cw-weatherland.herokuapp.com!
+Visit the production site at [Weatherland](https://cw-weatherland.herokuapp.com)!
